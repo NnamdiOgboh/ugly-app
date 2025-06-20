@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ugly-app/static/css/main.f404866f.css",
+    "main.js": "/ugly-app/static/js/main.0ef5d0a4.js",
+    "static/js/453.bf483293.chunk.js": "/ugly-app/static/js/453.bf483293.chunk.js",
+    "static/media/ogboh.jpeg": "/ugly-app/static/media/ogboh.a5ad88b561e3f2a430a9.jpeg",
+    "index.html": "/ugly-app/index.html",
+    "main.f404866f.css.map": "/ugly-app/static/css/main.f404866f.css.map",
+    "main.0ef5d0a4.js.map": "/ugly-app/static/js/main.0ef5d0a4.js.map",
+    "453.bf483293.chunk.js.map": "/ugly-app/static/js/453.bf483293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f404866f.css",
+    "static/js/main.0ef5d0a4.js"
+  ]
+}
