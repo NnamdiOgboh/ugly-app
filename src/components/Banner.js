@@ -126,7 +126,7 @@ export const Banner = () => {
               }}
             >
               <img src={img} alt="Artist" />
-              <p>Artist Photo</p>
+              
             </motion.div>
           </motion.div>
         </motion.div>
