@@ -48,5 +48,8 @@
     "resolve-url-loader": {
       "postcss": "8.5.4"
     }
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
