@@ -168,25 +168,7 @@ export const Footer = () => {
             <div className="footer-divider"></div>
             <div className="footer-copyright">
               <p>&copy; {currentYear} uglyarts. All rights reserved.</p>
-              <div className="footer-legal">
-                <motion.a 
-                  href="#" 
-                  className="legal-link"
-                  whileHover={{ color: "#667eea" }}
-                  transition={{ duration: 0.2 }}
-                >
-                  Privacy Policy
-                </motion.a>
-                <span className="separator">|</span>
-                <motion.a 
-                  href="#" 
-                  className="legal-link"
-                  whileHover={{ color: "#667eea" }}
-                  transition={{ duration: 0.2 }}
-                >
-                  Terms of Service
-                </motion.a>
-              </div>
+             
             </div>
           </motion.div>
         </div>
