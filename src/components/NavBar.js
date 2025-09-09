@@ -66,7 +66,7 @@ export const NavBar = () => {
           </motion.button>
           <motion.button
             className="nav-item"
-            onClick={() => scrollToSection("gallery")}
+            onClick={() => scrollToSection("gallery")} // Scroll to the gallery section
             initial={{ opacity: 0, x: 50 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.7, duration: 0.5 }}
